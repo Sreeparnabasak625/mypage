@@ -1,0 +1,30 @@
+* 
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+ 
+background-color: rgb(61, 56, 56);
+}
+.container
+{
+display: flex;
+justify-content: center;
+
+}
+.card
+{
+background-color: white;
+height: 400;
+width: 300;
+margin: 20px;
+}
+.img
+{
+background-color: aqua;
+height: 170px;
+border-radius: 15px 15px 0 0;
+}
